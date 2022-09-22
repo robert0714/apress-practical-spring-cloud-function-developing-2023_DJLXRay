@@ -1,4 +1,4 @@
-package com.example.djlxray;
+package com.kubeforce.djlxray;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
